@@ -1,0 +1,11 @@
+exports.calgaryherald   = require("./calgaryherald.js");
+exports.cbcbc           = require("./cbcbc.js");
+exports.cbcns           = require('./cbcns.js');
+exports.checknews       = require('./checknews.js');
+exports.global          = require('./globalmontreal.js');
+exports.hamiltonspec    = require('./hamiltonspec.js');
+exports.leaderpost      = require("./leaderpost.js");
+exports.ottawacitizen   = require('./ottawacitizen.js');
+exports.telegram        = require('./telegram.js');
+exports.winnipegctv     = require('./winnipegctv.js');
+//exports.leaderpost      = require("./winnnipegfreepress.js");
