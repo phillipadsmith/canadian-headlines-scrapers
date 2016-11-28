@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.4.6",
+    "config": "^1.24.0",
     "osmosis": "^1.1.2",
     "pg": "^6.1.0",
     "pg-hstore": "^2.3.2",
