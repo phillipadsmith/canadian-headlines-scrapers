@@ -14,7 +14,7 @@
     "osmosis": "^1.1.2",
     "pg": "^6.1.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.27.0",
+    "sequelize": "^6.3.5",
     "sugar-date": "^2.0.4",
     "underscore": "^1.8.3"
   }
